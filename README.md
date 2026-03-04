@@ -6,7 +6,7 @@ Aspecte de mentionat:
 
 
 
--Codul contine variabile globale, pe deoparte pentru simplitate, pe de alta parte pentru a ma simti bine dupa ce nu am avut voie un semestru intreg sa le folosesc la o materie de programare.Aceste variabile au fost folosite in mod responsabil.
+-Codul contine variabile globale, pe de o parte pentru simplitate, pe de alta parte pentru a ma simti bine dupa ce nu am avut voie un semestru intreg sa le folosesc la o materie de programare.Aceste variabile au fost folosite in mod responsabil.
 
 
 
@@ -69,4 +69,5 @@ Inteligenta artificiala nu a fost folosita pentru dezvoltarea acestui proiect
 
 
 Traducerea in engleza a comentariilor din cod, readme-ului si al descrierii de pe GitHub poate fi facuta la cerere.
+
 
